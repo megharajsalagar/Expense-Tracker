@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
     return MediaQuery(
       data: MediaQueryData(),
       child: MaterialApp(
-        title: 'eTracker',
+        title: 'Expense Tracker',
         theme: ThemeData(
           primarySwatch: Colors.purple,
           accentColor: Colors.amber,
